@@ -71,7 +71,7 @@ nav {
     display: flex;
     align-items: center;
     padding-top: 80px;
-    background-image: url('/Users/anisharapolu/Downloads/projects/my-portfolio/annie-spratt-zA7I5BtFbvw-unsplash.jpg');
+    background-image: url('/Users/anisharapolu/Downloads/projects/my-portfolio/codioful-formerly-gradienta-EN_upkV3_Zs-unsplash.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -391,15 +391,19 @@ nav {
 .contact {
     padding: 120px 0;
     background: #1a1a1a;
-    color: white;
+    color: rgb(0, 0, 0);
+    background-image: url('/Users/anisharapolu/Downloads/projects/my-portfolio/codioful-formerly-gradienta-EN_upkV3_Zs-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .contact .section-title {
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .contact .section-subtitle {
-    color: #ccc;
+    color: #000000;
 }
 
 .contact-content {
@@ -427,11 +431,11 @@ nav {
 
 .contact-item p {
     font-size: 14px;
-    color: #ccc;
+    color: #000000;
 }
 
 .contact-item a {
-    color: #ccc;
+    color: #000000;
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -446,6 +450,7 @@ footer {
     background: #1a1a1a;
     border-top: 1px solid #333;
     text-align: center;
+    
 }
 
 footer p {
